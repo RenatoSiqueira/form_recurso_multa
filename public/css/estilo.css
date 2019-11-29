@@ -1,0 +1,20 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.App {
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+}
+
+.content {
+    width: 100%;
+}
+
+.content img {
+    width: 100%;
+}
