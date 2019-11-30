@@ -1,0 +1,41 @@
+{
+    "esfera": [
+        {
+            "id"    : 0,
+            "tipo"  : "Federal"
+        },
+        {
+            "id"    : 1,
+            "tipo"  : "Estadual"
+        },
+        {
+            "id"    : 2,
+            "tipo"  : "Municipal"
+        }
+    ],
+    "estado": [
+        {
+            "id"    : 1,
+            "nome"  : "Bahia",
+            "sigla" : "BA"
+        }
+    ],
+    "orgao": [
+        {
+            "id"    : 1,
+            "nome"  : "SMT",
+            "esfera": "Municipal",
+            "cidade": "Feira de Santana",
+            "estado": "Bahia",
+            "logo"  : "smt.png"
+        },
+        {
+            "id"    : 2,
+            "nome"  : "PRF",
+            "esfera": "Federal",
+            "cidade": "",
+            "estado": "",
+            "logo"  : "prf.png"
+        }
+    ]
+}
